@@ -17,7 +17,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 
-<!--
+
 ## 📊 GitHub Stats
 ![Varrsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varsha-src&show_icons=true&theme=radical)
 
@@ -26,7 +26,7 @@
 
 ## 🚀 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varsha-src&theme=react-dark)
--->
+
 
 ## 🌟 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-src&layout=compact&theme=radical)
