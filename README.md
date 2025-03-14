@@ -1,5 +1,5 @@
 
-## Hi there! 👋 I'm Varrsha Ramanna Kumar
+## Hello, I'm Varsha!
 🔹 **Technical Project Manager | Salesforce Consultant | Product Strategist**  
 🔹 Passionate about **Salesforce Development, B2B SaaS Product Strategy, Data Science, and Machine Learning**  
 🔹 Experienced in **Agile Development, Software Lifecycle Management, and API Integrations**  
