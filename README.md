@@ -60,6 +60,7 @@ Hi there! I’m a Tech Savvy with a passion for building scalable solutions and 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌎 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=codepen&logoColor=white)](https://varrsharkumar.mystrikingly.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrk15797/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varsha-src)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varshujul15@gmail.com)
