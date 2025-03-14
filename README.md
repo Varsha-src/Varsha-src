@@ -7,12 +7,15 @@
 
 ### 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-68217A?style=flat-square&logo=microsoft&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=postman&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=pytorch&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 
 <!--
 ## 📊 GitHub Stats
